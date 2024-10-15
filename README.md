@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06770B&height=120&section=header"/>  
   
 <div align="left">  
- <img  src="https://pixeljoint.com/files/icons/bigfoot_v3.png"/> Trust me! im Engineer! <img src="https://pixeljoint.com/files/icons/full/bon.gif" />
+ <img  src="https://pixeljoint.com/files/icons/bigfoot_v3.png"/> Trust me! im Engineer! <img src="https://pixeljoint.com/files/icons/full/bon.gif"/>  <img src="https://pixeljoint.com/files/icons/full/death2__r1642113181.png"/>
 </div>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=06770B&size=35&center=true&vCenter=true&width=1000&lines=Olár!+MIM+SER+Philipe+🧑🏻‍💻;Sou+de+Sampa;Sou+engenheiro+eletrico+com+enfâse+em+computação.;+:%29)](https://git.io/typing-svg) 
