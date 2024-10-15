@@ -1,13 +1,17 @@
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06770B&height=120&section=header"/>  
-
+  
+<div align="left">  
+ <img  src="https://pixeljoint.com/files/icons/bigfoot_v3.png"/> Trust me! im Engineer!
+</div>
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=06770B&size=35&center=true&vCenter=true&width=1000&lines=Olár!+MIM+SER+Philipe+🧑🏻‍💻;Sou+de+Sampa;Sou+engenheiro+eletrico+com+enfâse+em+computação.;+:%29)](https://git.io/typing-svg) 
 </div><br/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=prtphilipe&show_icons=true&count_private=true&hide_border=true&title_color=06770B&icon_color=06770B&text_color=c9d1d9&bg_color=000000" alt="Eduardo Valente github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prtphilipe&layout=compact&hide_border=true&title_color=06770B&text_color=06770B&bg_color=000000" />
-</div>
+ </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prtphilipe&bg_color=000000&color=06770B&line=07e9a5&point=06770B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -25,13 +29,14 @@
 
 </div><br/>
 
-Trust me! im Engineer!
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{prtphilipe}/count.svg" /></p> 
 <br></div>
 
+<img src="https://pixeljoint.com/files/icons/full/skd1nea.png"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06770B&height=120&section=footer"/>
 
